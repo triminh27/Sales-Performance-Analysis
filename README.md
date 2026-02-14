@@ -1,66 +1,148 @@
-# Sales-Performance-Analysis
-# Phân Tích Hiệu Suất Bán Hàng (Mobile Phone Sale Dashboard)
+This dashboard is built for Sales Managers to track the sale team performance:
+The primary focus is the overall health of business, measured by 5 key metrics:
+* Total Sales
+* Average sale by order
+* Total orders
+* Average weeks to close a deal
+* New opportunities
 
-[cite_start]Dashboard này được xây dựng dành cho các Sales Manager nhằm theo dõi hiệu suất của đội ngũ bán hàng[cite: 217]. [cite_start]Trọng tâm chính là sức khỏe tổng thể của doanh nghiệp, được đo lường qua 5 chỉ số cốt lõi: Tổng doanh số, Giá trị đơn hàng trung bình (AOV), Tổng số đơn hàng, Thời gian trung bình chốt đơn (tuần), và Cơ hội mới[cite: 218, 219, 220, 221, 222, 223].
+# I. Executive Summary
 
-![Dashboard Overview](Link_Ảnh_Overview_Dashboard_Của_Bạn)
+## 1. Overall health
+Q4 witnessed a slight decline in the sales revenue, (-6% QoQ).
+Consequently, The AOV and Total orders in Q4 also showed a negative growth.
+Most notably, the new opportunities decreased significantly by nearly 58% compared to Q3.
+While concerning, this aligns with historical trends as Q4 is typically a low-demand season for the B2B mobile phone industry, specificlly in Technology and Software sectors due to end-of-year budget closures.
 
----
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/252fd3d8-d842-49fe-ba6c-805b160b7707" />
 
-## I. Tóm Tắt Thực Thi (Executive Summary)
 
-### 1. Sức khỏe tổng thể (Overall Health)
-* [cite_start]Quý 4 chứng kiến sự sụt giảm nhẹ về doanh thu bán hàng (-6% QoQ)[cite: 226].
-* [cite_start]Hệ quả là AOV và Tổng số đơn hàng trong Q4 cũng ghi nhận mức tăng trưởng âm[cite: 227].
-* [cite_start]Đáng chú ý nhất, các cơ hội mới (new opportunities) đã giảm mạnh gần 58% so với Q3[cite: 228].
-* [cite_start]Mặc dù đáng lo ngại, nhưng điều này phù hợp với xu hướng lịch sử vì Q4 thường là mùa thấp điểm của ngành điện thoại di động B2B (đặc biệt trong lĩnh vực Công nghệ và Phần mềm) do việc chốt ngân sách cuối năm của các công ty[cite: 229].
+## 2. Sector & Account Overview
+Regarding the top 5 key sectors, the two main segments Software and Technology experienced a significant seasonal downturn, dropping by 7% and 9% respectively.
+This decline directly impacted key accounts with Kancode(Software) falling by 31% and Konex (Technology) by 23%.
+Although characteristic of the low season, the company should find out the root causes to prevent losing market share to competitors.
 
-### 2. Tổng quan Ngành & Khách hàng (Sector & Account)
-* [cite_start]Trong 5 lĩnh vực trọng điểm, 2 phân khúc chính là Phần mềm (Software) và Công nghệ (Technology) sụt giảm theo mùa vụ đáng kể, lần lượt giảm 7% và 9%[cite: 230, 231].
-* [cite_start]Sự sụt giảm này tác động trực tiếp đến các khách hàng lớn: Kancode (Phần mềm) giảm 31% và Konex (Công nghệ) giảm 23%[cite: 232]. [cite_start]Dù là đặc thù mùa thấp điểm, công ty cần tìm ra nguyên nhân gốc rễ để tránh mất thị phần vào tay đối thủ[cite: 233].
-* [cite_start]Ngược lại, lĩnh vực Tài chính (Finance) tăng trưởng ngoạn mục 12%, với Xx holding và Stanrextax tăng nhu cầu lần lượt là 574% và 50%[cite: 234].
+<img width="975" height="304" alt="image" src="https://github.com/user-attachments/assets/08be2729-6827-402d-a54f-9bd56305d398" />
 
-### 3. Tổng quan Đội ngũ & Sản phẩm
-* [cite_start]Doanh thu của các quản lý Melvin Marxen, Rocco Neubert, và Celia Rouche giảm 12%[cite: 235, 236].
-* [cite_start]Sewald và Brinkmann có hiệu suất tốt với mức tăng lần lượt là 8% và 11%[cite: 237].
-* [cite_start]Các sản phẩm GTX Pro, GTX plus Basic và MG special giảm mạnh khoảng 15% doanh số[cite: 238]. [cite_start]Team nghiên cứu thị trường cần kiểm tra sự thay đổi trong thị hiếu khách hàng[cite: 239].
 
-**Các hành động trọng tâm (Key Actions):**
-* [cite_start]**Retention (Giữ chân):** Họp khẩn với Kan-code và Konex để giải quyết việc giảm khối lượng và chốt cam kết cho Q1[cite: 240, 241].
-* [cite_start]**Expansion (Mở rộng):** Phối hợp với Xx-holding để duy trì đà tăng trưởng và khám phá cơ hội up-selling[cite: 242].
-* [cite_start]**Knowledge Sharing (Chia sẻ kiến thức):** Phân tích chiến lược của Brinkmann và Sewald để áp dụng "best practices" cho phần còn lại của team (đặc biệt là Melvin và Rocco)[cite: 243].
-* [cite_start]**Customer testing:** Xác minh sự thay đổi trong thị hiếu khách hàng[cite: 244].
+<img width="975" height="297" alt="image" src="https://github.com/user-attachments/assets/3c123510-bffc-4aea-85a9-328ae7c5900a" />
 
----
 
-## II. Đánh Giá Đội Ngũ Sales (Team Assessment)
+In contrast, The finance sector showed a dramatic increase by 12%, with Xx holding and Stanrextax increasing their demand by 574% and 50% respectively.
 
-![Team Performance Matrix](Link_Ảnh_Matrix_Team_Của_Bạn)
+<img width="975" height="299" alt="image" src="https://github.com/user-attachments/assets/f12829e1-51f6-4962-a491-3dacc5584680" />
 
-[cite_start]Mô hình ma trận đánh giá hiệu quả của các Quản lý dựa trên Tỷ lệ chuyển đổi (Conversion Rate) và Giá trị đơn hàng trung bình (Average Sale)[cite: 246]. [cite_start]Các nhóm được phân thành 4 tệp[cite: 247, 248, 249, 250, 251]:
+## 3. Team & Product Overview
+An analysis of manager performance reveals that the revenue of Melvin Marxen, Rocco Neubert, Celia Rouche have decreased by 12% so I will deep dive in their performance later to identify potential problems.
+Besides that, Sewald and Brinkmann had a good performance with 8% and 11% increase, respectively.
+The products GTX Pro, GTX plus Basic and MG special also show significant drop by around 15% in sale.
+The market research team should also check for any shifts in customer preferences.
 
-### G1: Team Celia Rouche (Cân bằng nhưng Thiếu Cơ Hội)
-* [cite_start]**Vấn đề:** Chốt đơn hiệu quả (CVR: 61.7%, Avg Sale: $2,403) nhưng doanh thu giảm -12.29% QoQ do khối lượng đơn hàng quá thấp (chỉ 179 deals)[cite: 252, 253, 254, 255, 256].
-* [cite_start]**Giải pháp:** Chuyển các leads tiềm năng từ các team kém hiệu quả sang cho Celia[cite: 257, 258]. [cite_start]Ghi chép lại kỹ năng chốt sales thần tốc (6.43 tuần) của cô để đào tạo team khác[cite: 259, 260].
+**Key Actions:**
+* **Retention:** Initiate urgent meetings with Kan-code and Konex to address their declining volume and secure commitments for Q1.
+* **Expansion:** Engage Xx-holding to strategize on sustaining their growth and explore up-selling opportunities.
+* **Knowledge Sharing:** Analyze the sales strategies of Brinkmann and Sewald to understand how they succeeded in a low season and apply these "best practices" to the rest of the team (especially for Melvin and Rocco).
+* **Customer testing:** Verify potential shift in customer taste.
 
-### G2: Team Dustin & Summer Sewald (Quán Quân Tăng Trưởng & Hình Mẫu)
-* [cite_start]**Dustin:** Tăng trưởng mạnh nhất (+11.05% QoQ) nhưng hiệu quả kém do dành quá nhiều thời gian (6.99 tuần) chốt các đơn nhỏ ($1,488)[cite: 261, 262, 263]. [cite_start]**Hành động:** Chuyển từ "Số lượng" sang "Giá trị", đào tạo upselling, đặt KPI Avg Sale $2,000[cite: 264, 265].
-* [cite_start]**Sewald:** Quản lý xuất sắc nhất, tăng trưởng +7.88%, CVR cao nhất (64.7%)[cite: 266, 267]. [cite_start]**Hành động:** Trở thành Mentor, cho phép các team khác "shadowing" (học hỏi thực tế) để nâng cao kỹ năng[cite: 268, 269].
 
-### G3: Team Rocco Neubert & Melvin Marxen (Doanh Thu Cao & Lãng Phí Lớn)
-* [cite_start]**Rocco:** Chốt đơn giá trị khủng nhất ($2,935) nhưng CVR quá tệ (57.8%), làm mất khách quá nhiều dẫn đến rớt doanh thu -12.78%[cite: 270, 271, 272, 273]. **Hành động:** Đào tạo kỹ năng xử lý từ chối (Objection Handling); Chỉ giao lead Enterprise/Premium; [cite_start]Đặt KPI CVR 60%[cite: 274, 275, 276, 277, 278, 279].
-* [cite_start]**Melvin:** Mang về nhiều tiền nhất ($670,788), chốt đơn nhanh nhất (6.25 tuần), nhưng CVR thấp nhất (55.6%) và sụt giảm -12.63% QoQ[cite: 280, 281, 282, 283]. [cite_start]Chiến lược "đốt leads" không còn bền vững[cite: 284]. [cite_start]**Hành động:** Ưu tiên chất lượng hơn tốc độ, áp dụng "Deal Review" cho đơn >$3,000, bắt cặp học hỏi với Sewald[cite: 285, 286, 287, 288, 289, 290].
+# II. Team Assessment
 
-### G4: Team Cara Losch (Thiếu Định Hướng)
-* [cite_start]**Vấn đề:** Mọi chỉ số đều ở mức trung bình, doanh thu thấp nhất ($311,148) và volume quá ít (137 deals)[cite: 291, 292, 293].
-* [cite_start]**Giải pháp:** Áp dụng Performance Improvement Plan (PIP) - tăng volume lên 180 deals hoặc tăng Avg Sale lên $2,500[cite: 294, 295, 296, 297]. [cite_start]Kiểm tra nhật ký hoạt động (cuộc gọi/email) và yêu cầu shadow Celia Rouche[cite: 298, 299, 300, 301, 302].
+<img width="975" height="639" alt="image" src="https://github.com/user-attachments/assets/c216f064-4341-44e7-9bcd-b1d7f7dd5087" />
 
----
 
-## III. Đánh Giá Sản Phẩm (Product Assessment)
+Matrix assessment include two main metrics (Conversion rate, Average Sale) to measure the effectiveness of Managers.
+Based on this model, we can classify Sales Managers into 4 main categories:
+* G1: Celia Rouche
+* G2: Dustin + Summer Sewald
+* G3: Rocco Neubert + Melvin Marxen
+* G4: Cara Losch
 
-[cite_start]Dựa trên nguyên lý Pareto, 3 sản phẩm chủ lực (GTX Pro, GTX Plus Pro, MG Advanced) chiếm hơn 80% tổng doanh thu[cite: 318, 319]. [cite_start]Sự biến động nhỏ của nhóm này sẽ ảnh hưởng lớn đến toàn công ty[cite: 320].
+**Team Celia Rouche:** occupies the most balanced position—combining a high Conversion Rate (61.7%) with a strong Average Sale Value ($2,403).
+She sells high-value items without sacrificing win rates.
+The Growth Paradox: Despite these excellent efficiency metrics, her total revenue plummeted by -12.29% QoQ.
+Root Cause: The decline is driven by Low Volume.
+She only closed 179 deals (significantly lower than the market leaders at ~250 deals).
+**Action:** Celia does not need training; she needs more opportunities. Shift incoming leads from low-performing teams (e.g., Rocco Neubert, who wastes 42% of leads) to Celia Rouche. Analyze her sales workflow to understand how she closes deals in just 6.43 weeks. Document her closing techniques to train slower teams like Dustin (6.99 weeks).
 
-* [cite_start]**GTX Pro (Ngôi sao đang mất đà):** Đóng góp doanh thu top 1 nhưng giảm sâu -12.59%[cite: 321]. [cite_start]CVR và AOV vẫn cao, chứng tỏ sản phẩm không mất tính cạnh tranh mà đang bị hiệu ứng ăn mòn (Cannibalization Effect) hoặc bị sales bỏ lơ[cite: 322, 323, 324]. [cite_start]**Kế hoạch:** Tăng ngân sách marketing đầu phễu (top-of-funnel)[cite: 325, 326].
-* [cite_start]**GTX Plus Pro (Con gà đẻ trứng vàng):** Đứng top 2 doanh thu và tăng trưởng dương duy nhất (+2.57%)[cite: 327]. [cite_start]Sản phẩm đắt nhất nhưng dễ bán nhất (CVR cao nhất), chứng tỏ Product-Market Fit cực tốt[cite: 328, 329, 330]. [cite_start]**Kế hoạch:** Upsell mạnh mẽ, đặt làm lựa chọn mặc định trong mọi pitch deck, dồn ngân sách marketing để tăng trưởng hai chữ số[cite: 331, 332, 333, 334, 335].
-* [cite_start]**MG Advanced (Sản phẩm kẹt ở giữa):** Doanh thu đi ngang (-0.94%), mức giá tầm trung (~$2,000) nhưng CVR thấp (57.9%)[cite: 336, 337]. [cite_start]Khách hàng thấy nó không đủ tốt như dòng Pro nhưng lại quá đắt để làm sản phẩm giá rẻ[cite: 338, 339, 340, 341]. [cite_start]**Kế hoạch:** Tái định vị (nâng cấp hoặc giảm giá), ngưng bán lẻ và chuyển sang chiến lược bán kèm (Bundle Strategy)[cite: 342, 343, 344, 345].
+**Team Dustin:** is the growth champion of the quarter, delivering an impressive +11.05% QoQ increase while the company average declined.
+However, there is a significant efficiency gap: despite a strong Conversion Rate (63.2%), the team records the lowest Average Sale Value ($1,488) and the longest sales cycle (6.99 weeks).
+This suggests the team is working harder, not smarter—spending too much time closing small, low-margin deals.
+**Action:** Shift focus from Volume to Value. Implement Upselling training and set a target Avg. Sale of $2,000 for next quarter.
+
+**Team Sewald:** Summer Sewald is the top-performing manager, maintaining both positive growth (+7.88%) and the company's highest Conversion Rate (64.7%).
+This team represents the ideal balance of efficiency and revenue.
+**Action:** Leverage Sewald as a Mentor. Arrange shadowing sessions for struggling teams (like Rocco’s) to learn from Sewald’s closing techniques. Coordinate with HR to backfill Carlin's position immediately.
+
+**Team Rocco Neubert:** Rocco achieves the highest Average Sale in the company ($2,935), proving his ability to close premium deals and upsell effectively.
+However, his Conversion Rate is poor (57.8%), falling below the company average (60.3%).
+Impact: This inefficiency has led to a significant revenue drop of -12.78% QoQ.
+He is landing big fish but letting too many swim away.
+**Actions:**
+* **Conversion Coaching:** Rocco does not need product training (his Avg. Sale proves he knows the value). He needs Objection Handling training to stop losing 42% of his leads.
+* **Lead Filtering:** Since he excels at high-value deals, consider assigning him only Enterprise/Premium leads, while routing smaller/transactional leads to Dustin or Cara.
+* **Metrics Monitor:** Set a KPI to improve CVR to 60% next quarter. If he maintains his $2,935 avg. sale with a 60% win rate, his revenue will recover immediately.
+
+**2. Team Melvin Marxen: (High Speed, High Waste):** Melvin is the current top 1 Revenue Generator ($670,788), carrying the bulk of the company's performance.
+He closes deals in just 6.25 weeks, the fastest rate in the team.
+Critical Risk: His speed comes at a cost. He has the lowest Conversion Rate (55.6%) among active managers.
+The -12.63% QoQ decline suggests this "burn and turn" strategy is no longer sustainable in a shrinking market.
+He is burning through leads too quickly without nurturing them.
+**Actions:**
+* **Conversion rate is key:** Melvin needs to prioritize Quality over Speed. Instruct him to spend more time nurturing hesitant clients rather than discarding them to find the next easy win.
+* **Retention Strategy:** Analyze his lost deals. If he is losing customers because he is rushing the negotiation, implement a mandatory "Deal Review" step for opportunities >$3,000.
+* **Peer Learning:** Pair him with Summer Sewald (High CVR). Melvin teaches Summer how to speed up; Summer teaches Melvin how to nurture relationships.
+
+**3. Team Cara Losch, the (Low Volume, Avg. Metrics):** Cara shows no distinctive strengths.
+Her Avg. Sale ($2,271) and Weeks to Close (6.69) are average.
+She has the lowest revenue ($311,148) among full-time managers (excluding the outlier Dustin who is growing, and Carlin who left).
+She only closed 137 deals, which is almost half the volume of top performers like Summer or Melvin.
+**Actions:**
+* **Performance Improvement Plan (PIP):** Cara is currently "drifting." She needs a clear identity. Option A: Increase Volume. Aim for 180 deals next quarter. Option B: Increase Value. Aim for $2,500 Avg. Sale.
+* **Activity Audit:** Why is her volume so low (137 sales)? Is she lacking leads, or is her prospecting effort insufficient? Review her daily activity logs (calls/emails).
+* **Shadowing:** Require her to shadow Celia Rouche. Both have lower volumes, but Celia is much more efficient and effective. Cara needs to learn how to maximize every opportunity she gets.
+
+## Key takeaways
+
+**1. Protect the Core (Stability & Scale)**
+* **Focus:** Summer Sewald & Celia Rouche
+* **Rationale:** These are the most consistent and balanced performers. They represent the "safe zone" of the business.
+* **Action:** Maintain their current momentum and allocate additional resources (leads/budget) to help them scale up without compromising their high efficiency.
+
+**2. Fix the Leak (Optimization)**
+* **Focus:** Rocco Neubert & Melvin Marxen
+* **Rationale:** These are the top revenue generators but they suffer from high wastage (low Conversion Rates).
+* **Action:** Implement strict Conversion Rate Optimization (CRO) measures to stop losing valuable leads. A small increase in their win rate will yield the highest revenue recovery for the company.
+
+**3. Drive Efficiency (Value & Volume)**
+* **Focus:** Dustin Brinkmann & Cara Losch
+* **Rationale:**
+    * **Dustin:** High volume but low value. Action: Pivot focus to Upselling and higher average ticket size.
+    * **Cara:** Average metrics but low activity. Action: Increase Sales Activity/Volume (calls, meetings, proposals) to match the team average
+
+
+# III. Product Assessment
+
+<img width="975" height="608" alt="image" src="https://github.com/user-attachments/assets/8120f7cb-62df-4432-ad78-aa34b3d24be9" />
+
+
+Based on the Pareto principle, the data clearly shows that GTX Pro, GTX Plus Pro, and MG Advanced are the top 3 key revenue drivers, contributing to more than 80% of the total income.
+As a result, even a small variation in these 3 products can significantly impact the overall revenue, that what this analysis sorely focuses on the performance of them.
+
+**GTX Pro** remain the top revenue contributor but is the key primary driver of company’s downturn with a significant – 12.59% drop.
+Despite revenue decline, it maintains a healthy conversion rate and high Average order value
+* **Key insight:** The product is not losing competitiveness (CVR is still high), but it is losing momentum. The sharp decline suggests a potential Cannibalization Effect where customers may be migrating to the new GTX plus pro or the sale team is neglecting this core product to chase premium deals.
+* **Action Plan:** Since the Conversion Rate is high, the issue is strictly Volume. Increase top-of-funnel marketing specifically for this SKU to arrest the decline and restore the revenue baseline.
+
+**GTX Plus Pro** ranks 2nd in revenue ($795K) and is the only product in top 3 to record positive growth (2.57%).
+This is the most valuable product, boasting the highest metrics across the board: highest conversion rate and highest price point
+* **Insight:** The data proves that customers currently prefer the Premium option over the Standard one. The fact that the most expensive product is the easiest to sell (Highest CVR) indicates a very strong product-market fit. However, a +2.57% growth rate is underwhelming for such a high-performing SKU. It should be scaling much faster.
+* **Action Plan:**
+    * **Aggressive Upsell:** Mandate sales teams to lead with GTX Plus Pro as the default option in all pitch decks.
+    * **Resource Allocation:** Shift the majority of the marketing budget to this SKU. It has the best margin and conversion; the goal is to drive double-digit growth next quarter.
+
+**MG Advanced:** Revenue remains virtually flat with a slight dip of -0.94%.
+Positioned at a mid-range price point (~$2,000) but suffers from a lower Conversion Rate (57.9%) compared to the more expensive GTX series.
+* **Insight:** This product is suffering from being stuck in the Middle. It is cheaper than the GTX series but harder to sell. Customers likely perceive it as not good enough compared to the Pro versions, yet too expensive to be a budget option. It fails to compel the buyer, resulting in wasted sales effort.
+* **Action Plan:**
+    * **Repositioning:** Either upgrade its features to match the GTX series or lower the price to compete in the volume segment.
+    * **Bundle Strategy:** Stop selling it as a standalone Hero product. Use it in bundles or as a cross-sell option to clear inventory and improve overall deal value.
