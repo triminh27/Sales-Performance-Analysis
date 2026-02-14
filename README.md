@@ -1,10 +1,16 @@
-This dashboard is built for Sales Managers to track the sale team performance:
-The primary focus is the overall health of business, measured by 5 key metrics:
-* Total Sales
-* Average sale by order
-* Total orders
-* Average weeks to close a deal
-* New opportunities
+## 1. 🎯 Project Overview (Context)
+
+**Business Problem:**
+The company experienced a -6% QoQ decline in total sales revenue in Q4, accompanied by a severe 58% drop in new opportunities. While Q4 is historically a slow season for the B2B Tech & Software sectors due to budget closures, the management needs to understand the root causes beyond seasonality.
+
+**Objective:**
+This project aims to move beyond descriptive analytics (what happened) to prescriptive analytics (what should we do). By diagnosing performance across Sectors, Sales Managers, and Product Lines, the goal is to provide actionable strategic recommendations to arrest the revenue decline and optimize the sales pipeline for the upcoming quarter.
+
+## 2. 🗂️ Dataset
+
+* **Source:** Maven Analytics (B2B CRM Sales Challenge Dataset).
+* **Domain:** B2B Sales, CRM Data.
+* **Key Metrics Tracked:** Total Sales Revenue, Average Order Value (AOV), Total Orders, Conversion Rate (CVR), Average Weeks to Close, New Opportunities.
 
 # I. Executive Summary
 
