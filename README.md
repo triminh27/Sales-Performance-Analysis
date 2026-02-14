@@ -88,7 +88,7 @@ He is landing big fish but letting too many swim away.
 * **Lead Filtering:** Since he excels at high-value deals, consider assigning him only Enterprise/Premium leads, while routing smaller/transactional leads to Dustin or Cara.
 * **Metrics Monitor:** Set a KPI to improve CVR to 60% next quarter. If he maintains his $2,935 avg. sale with a 60% win rate, his revenue will recover immediately.
 
-**2. Team Melvin Marxen: (High Speed, High Waste):** Melvin is the current top 1 Revenue Generator ($670,788), carrying the bulk of the company's performance.
+**Team Melvin Marxen: (High Speed, High Waste):** Melvin is the current top 1 Revenue Generator ($670,788), carrying the bulk of the company's performance.
 He closes deals in just 6.25 weeks, the fastest rate in the team.
 Critical Risk: His speed comes at a cost. He has the lowest Conversion Rate (55.6%) among active managers.
 The -12.63% QoQ decline suggests this "burn and turn" strategy is no longer sustainable in a shrinking market.
@@ -98,7 +98,7 @@ He is burning through leads too quickly without nurturing them.
 * **Retention Strategy:** Analyze his lost deals. If he is losing customers because he is rushing the negotiation, implement a mandatory "Deal Review" step for opportunities >$3,000.
 * **Peer Learning:** Pair him with Summer Sewald (High CVR). Melvin teaches Summer how to speed up; Summer teaches Melvin how to nurture relationships.
 
-**3. Team Cara Losch, the (Low Volume, Avg. Metrics):** Cara shows no distinctive strengths.
+**Team Cara Losch, the (Low Volume, Avg. Metrics):** Cara shows no distinctive strengths.
 Her Avg. Sale ($2,271) and Weeks to Close (6.69) are average.
 She has the lowest revenue ($311,148) among full-time managers (excluding the outlier Dustin who is growing, and Carlin who left).
 She only closed 137 deals, which is almost half the volume of top performers like Summer or Melvin.
