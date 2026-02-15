@@ -70,11 +70,13 @@ She sells high-value items without sacrificing win rates.
 The Growth Paradox: Despite these excellent efficiency metrics, her total revenue plummeted by -12.29% QoQ.
 Root Cause: The decline is driven by Low Volume.
 She only closed 179 deals (significantly lower than the market leaders at ~250 deals).
+
 **Action:** Celia does not need training; she needs more opportunities. Shift incoming leads from low-performing teams (e.g., Rocco Neubert, who wastes 42% of leads) to Celia Rouche. Analyze her sales workflow to understand how she closes deals in just 6.43 weeks. Document her closing techniques to train slower teams like Dustin (6.99 weeks).
 
 **Team Dustin:** is the growth champion of the quarter, delivering an impressive +11.05% QoQ increase while the company average declined.
 However, there is a significant efficiency gap: despite a strong Conversion Rate (63.2%), the team records the lowest Average Sale Value ($1,488) and the longest sales cycle (6.99 weeks).
 This suggests the team is working harder, not smarter—spending too much time closing small, low-margin deals.
+
 **Action:** Shift focus from Volume to Value. Implement Upselling training and set a target Avg. Sale of $2,000 for next quarter.
 
 **Team Sewald:** Summer Sewald is the top-performing manager, maintaining both positive growth (+7.88%) and the company's highest Conversion Rate (64.7%).
