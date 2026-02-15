@@ -66,27 +66,29 @@ Based on this model, we can classify Sales Managers into 4 main categories:
 * G4: Cara Losch
 
 **Team Celia Rouche:** occupies the most balanced position—combining a high Conversion Rate (61.7%) with a strong Average Sale Value ($2,403).
-She sells high-value items without sacrificing win rates.
-The Growth Paradox: Despite these excellent efficiency metrics, her total revenue plummeted by -12.29% QoQ.
-Root Cause: The decline is driven by Low Volume.
-She only closed 179 deals (significantly lower than the market leaders at ~250 deals).
+She sells high-value items without sacrificing win rates. Despite these excellent efficiency metrics, her total revenue plummeted by -12.29% QoQ.
+The decline is driven by Low Volume. She only closed 179 deals (significantly lower than the market leaders at ~250 deals).
 
-**Action:** Celia does not need training; she needs more opportunities. Shift incoming leads from low-performing teams (e.g., Rocco Neubert, who wastes 42% of leads) to Celia Rouche. Analyze her sales workflow to understand how she closes deals in just 6.43 weeks. Document her closing techniques to train slower teams like Dustin (6.99 weeks).
+**Action:** 
+* Celia does not need training; she needs more opportunities. Shift incoming leads from low-performing teams (e.g., Rocco Neubert, who wastes 42% of leads) to Celia Rouche.
+* Analyze her sales workflow to understand how she closes deals in just 6.43 weeks. Document her closing techniques to train slower teams like Dustin (6.99 weeks).
 
 **Team Dustin:** is the growth champion of the quarter, delivering an impressive +11.05% QoQ increase while the company average declined.
-However, there is a significant efficiency gap: despite a strong Conversion Rate (63.2%), the team records the lowest Average Sale Value ($1,488) and the longest sales cycle (6.99 weeks).
+However, there is a significant efficiency gap, despite a strong Conversion Rate (63.2%), the team records the lowest Average Sale Value ($1,488) and the longest sales cycle (6.99 weeks).
 This suggests the team is working harder, not smarter—spending too much time closing small, low-margin deals.
 
 **Action:** Shift focus from Volume to Value. Implement Upselling training and set a target Avg. Sale of $2,000 for next quarter.
 
 **Team Sewald:** Summer Sewald is the top-performing manager, maintaining both positive growth (+7.88%) and the company's highest Conversion Rate (64.7%).
 This team represents the ideal balance of efficiency and revenue.
-**Action:** Leverage Sewald as a Mentor. Arrange shadowing sessions for struggling teams (like Rocco’s) to learn from Sewald’s closing techniques. Coordinate with HR to backfill Carlin's position immediately.
+
+**Action:** Leverage Sewald as a Mentor. Arrange shadowing sessions for struggling teams to learn from Sewald’s closing techniques.
 
 **Team Rocco Neubert:** Rocco achieves the highest Average Sale in the company ($2,935), proving his ability to close premium deals and upsell effectively.
 However, his Conversion Rate is poor (57.8%), falling below the company average (60.3%).
 Impact: This inefficiency has led to a significant revenue drop of -12.78% QoQ.
 He is landing big fish but letting too many swim away.
+
 **Actions:**
 * **Conversion Coaching:** Rocco does not need product training (his Avg. Sale proves he knows the value). He needs Objection Handling training to stop losing 42% of his leads.
 * **Lead Filtering:** Since he excels at high-value deals, consider assigning him only Enterprise/Premium leads, while routing smaller/transactional leads to Dustin or Cara.
@@ -97,6 +99,7 @@ He closes deals in just 6.25 weeks, the fastest rate in the team.
 Critical Risk: His speed comes at a cost. He has the lowest Conversion Rate (55.6%) among active managers.
 The -12.63% QoQ decline suggests this "burn and turn" strategy is no longer sustainable in a shrinking market.
 He is burning through leads too quickly without nurturing them.
+
 **Actions:**
 * **Conversion rate is key:** Melvin needs to prioritize Quality over Speed. Instruct him to spend more time nurturing hesitant clients rather than discarding them to find the next easy win.
 * **Retention Strategy:** Analyze his lost deals. If he is losing customers because he is rushing the negotiation, implement a mandatory "Deal Review" step for opportunities >$3,000.
@@ -106,6 +109,7 @@ He is burning through leads too quickly without nurturing them.
 Her Avg. Sale ($2,271) and Weeks to Close (6.69) are average.
 She has the lowest revenue ($311,148) among full-time managers (excluding the outlier Dustin who is growing, and Carlin who left).
 She only closed 137 deals, which is almost half the volume of top performers like Summer or Melvin.
+
 **Actions:**
 * **Performance Improvement Plan (PIP):** Cara is currently "drifting." She needs a clear identity. Option A: Increase Volume. Aim for 180 deals next quarter. Option B: Increase Value. Aim for $2,500 Avg. Sale.
 * **Activity Audit:** Why is her volume so low (137 sales)? Is she lacking leads, or is her prospecting effort insufficient? Review her daily activity logs (calls/emails).
