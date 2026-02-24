@@ -20,7 +20,8 @@ Consequently, The AOV and Total orders in Q4 also showed a negative growth.
 Most notably, the new opportunities decreased significantly by nearly 58% compared to Q3.
 While concerning, this aligns with historical trends as Q4 is typically a low-demand season for the B2B mobile phone industry, specificlly in Technology and Software sectors due to end-of-year budget closures.
 
-<img width="1414" height="794" alt="image" src="https://github.com/user-attachments/assets/b0079eff-e8b3-4ba6-9790-4dacd5a234b6" />
+<img width="1373" height="761" alt="image" src="https://github.com/user-attachments/assets/15538d05-c9b3-4b8a-9369-fd7c6183221a" />
+
 
 
 
