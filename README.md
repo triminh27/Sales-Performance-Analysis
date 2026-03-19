@@ -20,7 +20,8 @@ Consequently, The AOV and Total orders in Q4 also showed a negative growth.
 Most notably, the new opportunities decreased significantly by nearly 58% compared to Q3.
 While concerning, this aligns with historical trends as Q4 is typically a low-demand season for the B2B mobile phone industry, specificlly in Technology and Software sectors due to end-of-year budget closures.
 
-<img width="1373" height="761" alt="image" src="https://github.com/user-attachments/assets/15538d05-c9b3-4b8a-9369-fd7c6183221a" />
+<img width="1374" height="772" alt="image" src="https://github.com/user-attachments/assets/dec6eb3c-7642-417f-994c-a464b8fdeb5d" />
+
 
 
 
@@ -56,7 +57,7 @@ The market research team should also check for any shifts in customer preference
 
 # II. Team Assessment
 
-<img width="975" height="639" alt="image" src="https://github.com/user-attachments/assets/c216f064-4341-44e7-9bcd-b1d7f7dd5087" />
+<img width="1355" height="760" alt="image" src="https://github.com/user-attachments/assets/029e9c40-3b90-43c3-a7d2-44a26acf422d" />
 
 
 Matrix assessment include two main metrics (Conversion rate, Average Sale) to measure the effectiveness of Managers.
@@ -137,7 +138,7 @@ She only closed 137 deals, which is almost half the volume of top performers lik
 
 # III. Product Assessment
 
-<img width="975" height="608" alt="image" src="https://github.com/user-attachments/assets/8120f7cb-62df-4432-ad78-aa34b3d24be9" />
+<img width="1364" height="774" alt="image" src="https://github.com/user-attachments/assets/ac535ccf-a5d4-4d78-85ff-82c3a69388cd" />
 
 
 Based on the Pareto principle, the data clearly shows that GTX Pro, GTX Plus Pro, and MG Advanced are the top 3 key revenue drivers, contributing to more than 80% of the total income.
