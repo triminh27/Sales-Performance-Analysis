@@ -57,7 +57,8 @@ The market research team should also check for any shifts in customer preference
 
 # II. Team Assessment
 
-<img width="1355" height="760" alt="image" src="https://github.com/user-attachments/assets/029e9c40-3b90-43c3-a7d2-44a26acf422d" />
+<img width="1393" height="788" alt="image" src="https://github.com/user-attachments/assets/edb37fd0-0b6d-4a2d-a229-9e3be2da63c2" />
+
 
 
 Matrix assessment include two main metrics (Conversion rate, Average Sale) to measure the effectiveness of Managers.
