@@ -80,7 +80,7 @@ The decline is driven by Low Volume. She only closed 179 deals (significantly lo
 However, there is a significant efficiency gap, despite a strong Conversion Rate (63.2%), the team records the lowest Average Sale Value ($1,488) and the longest sales cycle (6.99 weeks). Besides that, this team have not focused on GTX pro, a flagship product of company, that's why their AOV is significant lower than average.
 This suggests the team is working harder, not smarter—spending too much time closing small, low-margin deals.
 
-<img width="535" height="259" alt="image" src="https://github.com/user-attachments/assets/a783ef24-f680-4c12-b960-2685d8ac236d" />
+   <img width="535" height="259" alt="image" src="https://github.com/user-attachments/assets/a783ef24-f680-4c12-b960-2685d8ac236d" />
 
 **Action:** Shift focus from Volume to Value. Implement Upselling training, the sale of GTX pro and set a target Avg. Sale of $2,000 for next quarter.
 
