@@ -57,7 +57,7 @@ The market research team should also check for any shifts in customer preference
 
 # II. Team Assessment
 
-<img width="1393" height="788" alt="image" src="https://github.com/user-attachments/assets/edb37fd0-0b6d-4a2d-a229-9e3be2da63c2" />
+<img width="1387" height="780" alt="image" src="https://github.com/user-attachments/assets/fd6d9605-0e6f-4e57-ad6e-d6570ca7202f" />
 
 
 
@@ -77,10 +77,12 @@ The decline is driven by Low Volume. She only closed 179 deals (significantly lo
 * Analyze her sales workflow to understand how she closes deals in just 6.43 weeks. Document her closing techniques to train slower teams like Dustin (6.99 weeks).
 
 **Team Dustin:** is the growth champion of the quarter, delivering an impressive +11.05% QoQ increase while the company average declined.
-However, there is a significant efficiency gap, despite a strong Conversion Rate (63.2%), the team records the lowest Average Sale Value ($1,488) and the longest sales cycle (6.99 weeks).
+However, there is a significant efficiency gap, despite a strong Conversion Rate (63.2%), the team records the lowest Average Sale Value ($1,488) and the longest sales cycle (6.99 weeks). Besides that, this team have not focused on GTX pro, a flagship product of company, that's why their AOV is significant lower than average.
 This suggests the team is working harder, not smarter—spending too much time closing small, low-margin deals.
 
-**Action:** Shift focus from Volume to Value. Implement Upselling training and set a target Avg. Sale of $2,000 for next quarter.
+<img width="535" height="259" alt="image" src="https://github.com/user-attachments/assets/a783ef24-f680-4c12-b960-2685d8ac236d" />
+
+**Action:** Shift focus from Volume to Value. Implement Upselling training, the sale of GTX pro and set a target Avg. Sale of $2,000 for next quarter.
 
 **Team Sewald:** Summer Sewald is the top-performing manager, maintaining both positive growth (+7.88%) and the company's highest Conversion Rate (64.7%).
 This team represents the ideal balance of efficiency and revenue.
