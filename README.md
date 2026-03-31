@@ -57,8 +57,7 @@ The market research team should also check for any shifts in customer preference
 
 # II. Team Assessment
 
-<img width="1387" height="780" alt="image" src="https://github.com/user-attachments/assets/fd6d9605-0e6f-4e57-ad6e-d6570ca7202f" />
-
+<img width="1395" height="784" alt="image" src="https://github.com/user-attachments/assets/b78674d0-2444-4bff-8a83-a13fc41a2be9" />
 
 
 Matrix assessment include two main metrics (Conversion rate, Average Sale) to measure the effectiveness of Managers.
@@ -80,7 +79,8 @@ The decline is driven by Low Volume. She only closed 179 deals (significantly lo
 However, there is a significant efficiency gap, despite a strong Conversion Rate (63.2%), the team records the lowest Average Sale Value ($1,488) and the longest sales cycle (6.99 weeks). Besides that, this team have not focused on GTX pro, a flagship product of company, that's why their AOV is significant lower than average.
 This suggests the team is working harder, not smarter—spending too much time closing small, low-margin deals.
 
-   <img width="535" height="259" alt="image" src="https://github.com/user-attachments/assets/a783ef24-f680-4c12-b960-2685d8ac236d" />
+<img width="539" height="257" alt="image" src="https://github.com/user-attachments/assets/830c9287-d748-4a7a-b41d-7664e3ae80b3" />
+
 
 **Action:** Shift focus from Volume to Value. Implement Upselling training, the sale of GTX pro and set a target Avg. Sale of $2,000 for next quarter.
 
