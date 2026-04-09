@@ -76,7 +76,7 @@ The decline is driven by Low Volume. She only closed 179 deals (significantly lo
 * Analyze her sales workflow to understand how she closes deals in just 6.43 weeks. Document her closing techniques to train slower teams like Dustin (6.99 weeks).
 
 **Team Dustin:** is the growth champion of the quarter, delivering an impressive +11.05% QoQ increase while the company average declined.
-However, there is a significant efficiency gap, despite a strong Conversion Rate (63.2%), the team records the lowest Average Sale Value ($1,488) and the longest sales cycle (6.99 weeks). Besides that, this team have not focused on GTX pro, a flagship product of company, that's why their AOV is significant lower than average.
+However, there is a significant efficiency gap, despite a strong Conversion Rate (63.2%), the team records the lowest Average Sale Value ($1,488) and the longest sales cycle (6.99 weeks). Besides that, this team has not focused on GTX pro, a flagship product of company, that's why their AOV is significant lower than average.
 This suggests the team is working harder, not smarter—spending too much time closing small, low-margin deals.
 
 <img width="539" height="257" alt="image" src="https://github.com/user-attachments/assets/830c9287-d748-4a7a-b41d-7664e3ae80b3" />
